@@ -57,8 +57,6 @@ layout: default
 
 <br>
 
-<hr>
-
 <br>
 
 <h3 align="left">
