@@ -104,3 +104,11 @@ layout: default
 </div>
 
 <br>
+<br>
+
+<h3 align="left">
+  Conatct me
+</h3>
+<hr>
+<br>
+<h2>Gmail | surattinon.basu@gmail.com</h2>
