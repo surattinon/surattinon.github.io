@@ -71,6 +71,8 @@ layout: default
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
 
+<br>
+
 <h3 align="left">Design | Tools :</h3>
 <hr>
 <div align="center">
