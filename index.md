@@ -6,12 +6,8 @@ layout: default
   <img height="188" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif"  />
 </div>
 
-###
-
 <h1 align="center">I'm Surattinon | バース</h1>
 <h3 align="center">A junier Dev from Thailand.</h3>
-
-###
 
 <div align="center">
   <a href="https://www.instagram.com/_basgetbore.d/" target="_blank">
@@ -28,11 +24,7 @@ layout: default
   </a>
 </div>
 
-###
-
 <img src="https://raw.githubusercontent.com/surattinon/surattinon/output/snake.svg" alt="Snake animation" />
-
-###
 
 <hr>
 
@@ -46,13 +38,9 @@ layout: default
 
 <hr>
 
-###
-
-</br>
+<br>
 
 <h2 align="left">Dev | Languages and tools { Learning } :</h2>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -78,11 +66,7 @@ layout: default
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
 
-###
-
 <h2 align="left">Design | Tools :</h2>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
@@ -95,5 +79,3 @@ layout: default
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
-
-###
