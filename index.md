@@ -106,9 +106,9 @@ layout: default
 <br>
 <br>
 
-<h3 align="left">
+<h4 align="left">
   Conatct me
-</h3>
+</h4>
 <hr>
 <br>
-<h2>Gmail | surattinon.basu@gmail.com</h2>
+<p>Gmail | surattinon.basu@gmail.com</p>
