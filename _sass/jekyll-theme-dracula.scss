@@ -13,9 +13,9 @@ body {
   font: 16px/1.5 $body-fonts;
   color: $foreground;
   font-weight: normal;
-  background: $background;
+  background: #0a0a0a;
   background-attachment: fixed !important;
-  background: linear_gradient($background, lighten($background, 20%));
+  // background: linear_gradient($background, lighten($background, 20%));
 }
 
 h1,
