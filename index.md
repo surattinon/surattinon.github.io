@@ -28,6 +28,8 @@ layout: default
 
 <img src="https://raw.githubusercontent.com/surattinon/surattinon/output/snake.svg" alt="Snake animation" />
 
+<br>
+
 <hr>
 
 <div align="center">
