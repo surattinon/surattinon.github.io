@@ -9,9 +9,9 @@ url: https://github.com/surattinon
 
 # GitHub Values
 github:
-  owner_name: Dracula
-  owner_url: https://github.com/dracula
-  repository_url: https://github.com/dracula/gh-pages
+  owner_name: surattinon
+  owner_url: https://github.com/surattinon
+  repository_url: https://github.com/surattinon
 
 show_downloads: false
 show_header: false
