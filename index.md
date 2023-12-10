@@ -48,7 +48,9 @@ layout: default
 
 <br>
 
-<h3 align="left">Dev | Languages and tools { Learning } :</h3>
+<h3 align="left">Dev | Languages and tools</h3>
+<br>
+<p align="left">{ Learning } :</p>
 <hr>
 
 <div align="center">
