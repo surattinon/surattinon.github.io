@@ -9,10 +9,10 @@ layout: default
 <h2 align="center">I'm Surattinon | バース</h2>
 <h3 align="center">A junier Dev from Thailand.</h3>
 
+<br>
 <div align="center">
-  <a href="https://github.com/surattinon/" target="_blank">
+  <a href="https://github.com/surattinon/" target="_blank" title="Visit github profile.">
         <img src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-github-1.png&r=255&g=255&b=255" width="50"/><br>
-    Visit my github.
   </a>
 </div>
 
