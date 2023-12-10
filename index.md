@@ -45,6 +45,7 @@ layout: default
 <br>
 
 <h3 align="left">Dev | Languages and tools { Learning } :</h3>
+<hr>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -71,7 +72,7 @@ layout: default
 </div>
 
 <h3 align="left">Design | Tools :</h3>
-
+<hr>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
   <img width="12" />
