@@ -42,6 +42,7 @@ layout: default
 
 <br>
 
+<h3 align="left">My Stats</h3>
 <hr>
 
 <br>
