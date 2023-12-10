@@ -8,7 +8,7 @@ layout: default
 
 <h2 align="center">I'm Surattinon <br>| バース |</h2>
 <br>
-<h3 align="center">A junier Dev from Thailand.</h3>
+<h3 align="center">A junior Dev from Thailand.</h3>
 
 <br>
 <div align="center">
@@ -42,7 +42,7 @@ layout: default
 
 <br>
 
-<h3 align="left">My Stats</h3>
+<h3 align="left">My stats</h3>
 <hr>
 
 <br>
