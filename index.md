@@ -9,6 +9,8 @@ layout: default
 <h2 align="center">I'm Surattinon | バース</h2>
 <h3 align="center">A junier Dev from Thailand.</h3>
 
+<br>
+
 <div align="center">
   <a href="https://www.instagram.com/_basgetbore.d/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -40,7 +42,7 @@ layout: default
 
 <br>
 
-<h2 align="left">Dev | Languages and tools { Learning } :</h2>
+<h3 align="left">Dev | Languages and tools { Learning } :</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -66,7 +68,7 @@ layout: default
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
 
-<h2 align="left">Design | Tools :</h2>
+<h3 align="left">Design | Tools :</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
