@@ -26,7 +26,8 @@ layout: default
   </a>
 </div>
 
-<h3 align="center">My github flex.</h3>
+<br>
+<h3 align="left">My github flex :</h3>
 <hr>
 
 <img src="https://raw.githubusercontent.com/surattinon/surattinon/output/snake.svg" alt="Snake animation" />
@@ -52,9 +53,7 @@ layout: default
 <br>
 
 <h3 align="left">
-  Dev | Languages and tools <br>
-  <span><p>{ Learning } :</p></span>
-</h3>
+  Dev | Languages and tools { Learning } : </h3>
 <hr>
 
 <div align="center">
