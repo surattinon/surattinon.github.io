@@ -1,5 +1,5 @@
 # SEO Values
-title: ">_BASU"
+title: "BASU"
 tagline:
 description: Welcome to my github page.
 url: https://github.com/surattinon
@@ -13,8 +13,8 @@ github:
   owner_url: https://github.com/dracula
   repository_url: https://github.com/dracula/gh-pages
 
-show_downloads: true
-show_header: true
+show_downloads: false
+show_header: false
 remote_theme: "dracula/gh-pages"
 
 sass:
