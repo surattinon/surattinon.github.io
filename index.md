@@ -6,7 +6,7 @@ layout: default
   <img height="188" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif"  />
 </div>
 
-<h1 align="center">I'm Surattinon | バース</h1>
+<h2 align="center">I'm Surattinon | バース</h2>
 <h3 align="center">A junier Dev from Thailand.</h3>
 
 <div align="center">
