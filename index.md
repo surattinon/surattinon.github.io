@@ -110,5 +110,4 @@ layout: default
   Conatct me
 </h4>
 <hr>
-<br>
 <p>Gmail | surattinon.basu@gmail.com</p>
