@@ -35,7 +35,7 @@ layout: default
 </div>
 
 <br>
-<h3 align="left">My github flex :</h3>
+<h3 align="left">My github flex</h3>
 <hr>
 
 <img src="https://raw.githubusercontent.com/surattinon/surattinon/output/snake.svg" alt="Snake animation" />
@@ -61,7 +61,7 @@ layout: default
 <br>
 
 <h3 align="left">
-  Dev | Languages and tools { Learning } : </h3>
+  Dev | Languages and tools { Learning }</h3>
 <hr>
 
 <div align="center">
@@ -90,7 +90,7 @@ layout: default
 
 <br>
 
-<h3 align="left">Design | Tools :</h3>
+<h3 align="left">Design | Tools</h3>
 <hr>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
