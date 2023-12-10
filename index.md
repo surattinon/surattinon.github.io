@@ -26,6 +26,9 @@ layout: default
   </a>
 </div>
 
+<h3 align="center">My github flex.</h3>
+<hr>
+
 <img src="https://raw.githubusercontent.com/surattinon/surattinon/output/snake.svg" alt="Snake animation" />
 
 <br>
