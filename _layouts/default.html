@@ -47,7 +47,9 @@
           {% if page.icon %}
             <img src="{{ page.icon | relative_url }}" />
           {% endif %}
+          <br>
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <br>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <hr>
         </div>
