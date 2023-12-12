@@ -109,7 +109,7 @@ layout: default
 <br>
 
 <h4 align="left">
-  Conatct me
+  Contact
 </h4>
 <hr>
 
