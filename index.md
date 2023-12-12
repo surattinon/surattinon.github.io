@@ -35,7 +35,7 @@ layout: default
 </div>
 
 <br>
-<h3 align="left">Contribution graph 🐍</h3>
+<h3 align="left">Github contribution graph 🐍</h3>
 <hr>
 
 <img src="https://raw.githubusercontent.com/surattinon/surattinon/output/snake.svg" alt="Snake animation" />
