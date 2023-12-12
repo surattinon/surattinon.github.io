@@ -112,9 +112,8 @@ layout: default
   Conatct me
 </h4>
 <hr>
-<p>Email : <br>
-  surattinon.basu@gmail.com
-</p>
+
+<a href="mailto:surattinon.basu@gmail.com">surattinon.basu@gmail.com</a>
 
 <br>
 <br>
