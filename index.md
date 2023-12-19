@@ -113,7 +113,7 @@ layout: default
 </h4>
 <hr>
 
-<a href="mailto:surattinon.basu@gmail.com">surattinon.basu@gmail.com</a>
+<a href="mailto:contacts@ofbas.com">contacts@ofbas.com</a>
 
 <br>
 <br>
